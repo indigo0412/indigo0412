@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![indigo0412's github stats](https://github-readme-stats.vercel.app/api?username=indigo0412&show_icons=true)
-[![indigo0412's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=indigo0412&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/indigo0412)
+![indigo0412's github stats](https://github-readme-stats.vercel.app/api?username=indigo0412&theme=midnight-purple&show_icons=true)
+[![indigo0412's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=indigo0412&theme=midnight-purple&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/indigo0412/github-readme-stats)
